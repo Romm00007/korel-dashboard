@@ -3,8 +3,8 @@ from datetime import datetime
 
 # ── CAMBIA ESTOS 2 VALORES ──────────────────────────────
 EXCEL_FILE   = 'FORMATO_DASHBOARD.xlsx'
-GITHUB_TOKEN = 'AQUI_VA_TU_TOKEN'
-GITHUB_REPO  = 'TU_USUARIO/korel-dashboard'
+GITHUB_TOKEN = 'rO3cAeXGFC5gYq9gwGr6Zc4OlPVV6K4cTalF'
+GITHUB_REPO  = 'Romm00007/korel-dashboard'
 # ────────────────────────────────────────────────────────
 
 def excel_a_json():
