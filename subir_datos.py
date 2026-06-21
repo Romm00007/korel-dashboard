@@ -3,7 +3,7 @@ from datetime import datetime
 
 # ── CAMBIA ESTOS 2 VALORES ──────────────────────────────
 EXCEL_FILE   = 'FORMATO_DASHBOARD.xlsx'
-GITHUB_TOKEN = 'rO3cAeXGFC5gYq9gwGr6Zc4OlPVV6K4cTalF'
+GITHUB_TOKEN = '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'
 GITHUB_REPO  = 'Romm00007/korel-dashboard'
 # ────────────────────────────────────────────────────────
 
